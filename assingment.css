@@ -1,0 +1,191 @@
+/* style */
+.Bangladesh{
+    display: flex;
+    background-color: aquamarine;
+    margin: 0px 390px 0px 390px;
+    padding: 40px;
+    border-radius: 16px;
+}
+.bd-1{
+    padding: 170px;
+}
+.btn-color{
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+}
+.style{
+    color: rgb(175, 177, 183);
+}
+.style-font{
+    font-size: 40px;
+}
+
+/* line-2 */
+.skill-container{
+    display: flex;
+    gap: 30px;
+}
+.bold{
+    font-weight: bold;
+    font-size: 30px;
+}
+.disent{
+    padding: 20px;
+    box-shadow: 0 auto;
+    background-color: whitesmoke;
+    box-shadow: whitesmoke;
+    border-radius: 16px;
+}  
+.Bangladesh-2{
+    margin: 0px 390px 0px 390px;
+    border-radius: 16px;
+}
+/* line-3 */
+.icon{
+    display: flex;
+    gap:30px;
+}
+.Bangladesh-3{
+    margin: 0px 380px 0px 380px;
+    border-radius: 16px;
+}
+
+.title{
+    font-size: 40px;
+}
+.title-discription{
+    font-size: 20px;
+}
+.btn-1{
+    color: white;
+    background-color: aqua;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.btn-2{
+    color: white;
+    background-color: red;
+    font-size: 15px;
+    border-radius: 5px;  
+}
+.btn-3{
+    color: white;
+    background-color:goldenrod;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.skills{
+    background-color: cornflowerblue;
+    padding: 25px;
+    border-radius: 16px;
+}
+.skills-1{
+    background-color:chocolate;
+    padding: 25px;
+    border-radius: 16px;
+}
+.skills-2{
+    background-color: blue;
+    padding: 25px;
+    border-radius: 16px;
+}
+.Dr{
+    margin: 50px 390px 50px 390px;
+    background-color: aliceblue;
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+    width: 1100px;
+    height: 200px;
+    padding: 5px;
+    border-radius: 16px;
+}
+.Muhammad{
+    font-size: 40px;
+}
+.bangladesh-satelite{
+    display: flex;
+    gap: 40px;
+}
+.news{
+    margin: 0px 390px 0px 390px;
+}
+.satelite1{
+    margin: 10px 390px 10px 390px ;
+    background-color: #ddd;
+    border-radius: 16px;
+    border: 25px;
+    padding: 25px;
+}
+.satelite2{
+    margin: 0px 390px 0px 390px ;
+    background-color: #ddd;
+    padding: 25px;
+    border: 40px;
+    border-radius: 16px;
+}
+.bangladesh{
+    display: flex;
+}
+.taka{
+    text-align: center;
+   
+}
+.taka-number{
+    padding: 25px;
+    display: flex;
+    gap:30px;
+    justify-content: space-evenly;
+  
+  
+}
+.number{
+    border: 2px solid black;
+    padding: 20px;
+    font-size:18px;
+    margin: 10px 0;
+    display: inline;
+    background-color: aquamarine;
+}
+.amount{
+    text-align: center;
+    
+}
+.btn{
+    width: 830px;
+    height: 50px;
+    background-color: white;
+    font-size: 15px;
+    font: 400;
+}
+.done{
+   text-align: center;
+   padding: 25px;
+}
+.bangladesh-5{
+    margin: 0px 390px 0px 390px ;
+}
+.search{
+    text-align: center;
+    background-color: rgb(138, 238, 205);
+    margin: 0px 390px 0px 390px ;
+    gap: 0px;
+    border-radius: 16px;
+
+}
+.search1{
+    text-align: center;
+    gap:0px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.news1{
+    background-color: green;
+}
+.images1{
+    text-align: center;
+    background-color: whitesmoke;
+    margin: 0px 390px 0px 390px;
+    gap:20px;
+    border-radius: 16px;
+}
